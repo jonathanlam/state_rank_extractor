@@ -13,7 +13,7 @@ schools_of_interest = [
 
 subjects_of_interest = [
     "Mathematics,",  # Use a comma in the name to exclude Mathematics General
-    "Mathemstics Extension"  # Includes extension 1 and 2
+    "Mathematics Extension"  # Includes extension 1 and 2
     "Chemistry",
     "Physics",
     "Biology",
